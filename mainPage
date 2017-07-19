@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>MIDPS Lab#4</title>
+	<link rel="stylesheet" type="text/css" href="Resources/Style/style.css">
+	<script src="Resources/Scripts/myScript.js"></script>
+</head>
+
+<body>
+
+    	<ul class="menubar">
+        	<li class = "menuItems"><a href="Resources/pages/about.html"\>About</a></li>
+        	<li class = "menuItems"><a href="Resources/pages/contacts.html">Contact</a></li>
+        	<li class = "menuItems"><a href="Resources/Pages/news.html">News</a></li>
+        	<li class = "menuItems"><a href="http://localhost:8080/quizzer/">Quizz</a></li>
+        	<li class = "menuItems"><a href="main.html">Home</a></li>
+    	</ul>
+
+
+</body>
+
+</html>
